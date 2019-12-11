@@ -1,0 +1,59 @@
+{
+    "STATUSES": [{
+        "STATUS": true,
+        "APPLICATION": "BROMS",
+        "UPTIME": "56 hr",
+        "SPEED": "3 ms",
+        "PING": 144,
+        "SECURITY": "HTTP"
+    },
+    {
+        "STATUS": false,
+        "APPLICATION": "RAID",
+        "UPTIME": "0 hr",
+        "SPEED": "999 ms",
+        "PING": 999,
+        "SECURITY": "NA"
+    },
+    {
+        "STATUS": true,
+        "APPLICATION": "CIIMS",
+        "UPTIME": "56 hr",
+        "SPEED": "<1 ms",
+        "PING": 144,
+        "SECURITY": "HTTPS"
+    },
+    {
+        "STATUS": true,
+        "APPLICATION": "DSC",
+        "UPTIME": "56 hr",
+        "SPEED": "2 ms",
+        "PING": 127,
+        "SECURITY": "HTTPS"
+    },
+    {
+        "STATUS": true,
+        "APPLICATION": "GeoLogger",
+        "UPTIME": "56 hr",
+        "SPEED": "3 ms",
+        "PING": 67,
+        "SECURITY": "HTTPS"
+    },
+    {
+        "STATUS": true,
+        "APPLICATION": "IT Assets",
+        "UPTIME": "56 hr",
+        "SPEED": "2 ms",
+        "PING": 144,
+        "SECURITY": "HTTP"
+    },
+    {
+        "STATUS": true,
+        "APPLICATION": "Q Ville",
+        "UPTIME": "56 hr",
+        "SPEED": "9 ms",
+        "PING": 80,
+        "SECURITY": "HTTP"
+    }
+]
+}
